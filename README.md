@@ -1,0 +1,1 @@
+Python aplikacija popularne video igre/simulatora Assetto Corsa koja prati broj okretaja rada automobila, zakret volana do 900 stupnjeva, prati aktivnost pedala automobila i njihov postotak kompresije, te takoder maksimalnu brzinu
